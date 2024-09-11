@@ -1,0 +1,30 @@
+upload ảnh video
+admin nhận thông tin và đưa xe thích hợp
+khi khách hang bấm xác nhận sẽ tiến hành tìm staff
+
+
+upload ảnh video
+chọn loaại xe 
+tiến hành thanh toán 
+staff sẽ xem hình ảnh video mà cus đăng xem phù hợp ko 
+staff xác nhận thì bắt đầu chuyển nhà
+nếu staff từ chối thì admin sẽ xem xét và gợi ý xe khác
+
+ưu tiên UI
+ntn là 1 đơn hang hợp lý
+dựa trên số kg tính toán
+dựa trên bang mapping giữa số tang vaà nhà
+
+loaại nhà 1 dưới bao nhiu tang phòng thì là xe gì
+vd: nhà 3 tang 3 phong thì ít nhất 1 tấn cao là 5 tấn
+
+đi theo số tang loại nhà mapping xe => chọn 
+đi theo số tang loại nhà qui ra kg mapping xe, phải có cthuc chuyen doi 
+
+them màn hình chờ duyệt trước khi payment
+
+đi flow hoàn chỉnh đến màn chờ xử lý thì nếu có thông số ko hợp lý sẽ trả về màn hình chọn phương tiện và disable nhunững xe trước đó
+
+cho them số luoượng xe
+
+loaại nha so tang so phong loại xe min so luong xe
