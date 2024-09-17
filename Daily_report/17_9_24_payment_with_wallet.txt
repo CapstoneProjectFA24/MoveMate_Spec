@@ -1,0 +1,3 @@
+làm 1 ví ghi nhận transaction
+nếu khách có ví thì bắt buộc nạp vào ví
+nếu gd tại chỗ thì staff xác nhận dòng tiền đó cho khách hàng
