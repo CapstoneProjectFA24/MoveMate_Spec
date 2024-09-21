@@ -1,0 +1,13 @@
+https://www.figma.com/design/bDOTYixwShRcW5nolxsxnj/Rideshare---Ride-Mobile--App-UI-kit-(Community)?node-id=15-284&t=WwseFJtzlA1cduiW-1
+
+assumption: bên mình luôn luôn available
+gán tự đôộng staff vào luôn có sẵn 
+
+ko quan tâm potter đi và đến ntn 
+
+tính phí di chuyển cho potter vào luôn phí chuyển nhà
+
+partner khi nào bên mình ko đủ đáp ưng
+
+tuần 5 bắt đầu làm report
+staff ban đầu trả lương cứng - ko quan tâm lương staff
