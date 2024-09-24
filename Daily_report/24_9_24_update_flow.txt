@@ -1,0 +1,21 @@
+admin: quản lý user (crud user)
+manager: quản lý bôi thường
+customer: booking, payment for booking, deposit, recharge, tracking real-time,  view service, cancel booking, contact with staff, edit profile, view profile, 
+
+Phân rạch ròi 3 staff: driver, potter, reviewer
+ 
+toàn bộ 5tr cọc trước 2tr (đã bao gồm phí di chuyển review)
+
+đổi time
+đang tìm	đã tìm thấy (assign)	đã đến
+OK ĐỔI NGÀY	OK ĐỔI			OK ĐỔI
+				(TH1: review đã review ko trừ)
+				(TH2: CUS DC ĐỔI 1 LẦN khi đã liên lạc dc review)
+				(TH3: ko liên lạc dc vs cus review sẽ có nút update là chờ trong vòng 3 tiếng, sau 3 tiếng ko có phản hồi từ cus sẽ hủy booking và ăn tiền cọc) 
+
+ko dc đổi trong trường hợp đã review done
+
+tình huống trong lúc vận chuyển xảy ra sự cố:
+1. lỗi của driver potter thì phải report từ cus hoặc driver hoặc potter thì sẽ đền bù 70% giá trị của đồ vật
+
+hỏi cô làm thế nào để xác thực cái order của customer 
