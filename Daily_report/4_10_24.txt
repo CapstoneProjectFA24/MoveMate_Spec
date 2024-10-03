@@ -1,0 +1,14 @@
+phân rõ 2 role review: review onl với offline làm chung app
+
+app user
+app driver porter
+app review
+1 web review admin manager
+
+sau khi chọn ngày giờ sẽ hiển thị guideline hướng dẫn choọ dicịch vụ gồm dịch vụ đạặ xe đặt dịch vụ và chon review onl off
+
+ko taách review, nhận vào booking vd có 4 thằng review có 4 booking offline 
+nổ ra thì 4 booking nổ ra sẽ assign tuâầ tự cho review 1, 2, 3, review 4 sẽ ko assign vì hệ thônng sẽ giữ lại 1 review online, vậy booking 4 sẽ được tieeps tục assign tuân tự cho review 1 nhưng thơi gian review sẽ bị delay 1 tiếng tính từ review truước đó review 1 nhận
+
+thiết kế màn hinh 
+
