@@ -1,0 +1,35 @@
+POST-01: The user is successfully authenticated and logged into the system using their account credentials.
+POST-02: The user successfully views their personal profile information.
+POST-03: The user successfully resets their password and can log into the system with the new password.
+POST-04: The customer is successfully authenticated and logged into the MoveMate system.
+POST-05: If it’s the customer’s first time logging in, the system may prompt for additional registration information.
+POST-06: The customer successfully updates their profile information, and the system stores the changes.
+POST-07: The customer successfully submits their feedback
+POST-08: The booking is successfully created and stored in the system.
+POST-09: The second time booking is successfully stored, and both trips are included in the booking details.
+POST-10: The booking is canceled, and the status is updated in the system.
+POST-11: The booking details are displayed to the customer.
+POST-11: The uploaded files are successfully saved and associated with the booking
+POST-12: The booking time is updated and confirmed to the customer.
+POST-13: The customer views truck details and selects a preferred truck type, if applicable.
+POST-14: Transaction history is displayed to the customer.
+POST-15: The requested amount is transferred, and balance is updated.
+POST-16: Account balance is updated with the recharged amount.
+POST-17: Issue is logged in the system and escalated for support.
+POST-18: Cash payment is collected, and the booking is marked as paid.
+POST-19: Booking is marked as paid once payment is completed.
+POST-20: The bonus is successfully transferred to the driver or porter's account.
+POST-21: The transaction is recorded in the customer's and service provider’s transaction history.
+POST-22: Customer has an understanding of the available services and can make an informed booking decision.
+
+
+
+
+
+
+
+
+
+
+
+

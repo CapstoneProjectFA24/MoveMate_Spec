@@ -1,0 +1,10 @@
+PRE-01: The user has a valid email and password.
+PRE-02: The user is logged into the system.
+PRE-03: The customer has a valid Google account.
+PRE-04: The MoveMate system is integrated with Google OAuth for authentication.
+PRE-05: The customer is logged into the system
+PRE-06: The customer has completed a service with the MoveMate platform
+PRE-07: The customer has chosen a cash payment option.
+PRE-08: The third party has authorized the payment.
+PRE-09: The service must be completed.
+PRE-10: The customer must have sufficient funds in their account to cover the bonus amount.
